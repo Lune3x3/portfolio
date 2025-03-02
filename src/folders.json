@@ -1,0 +1,58 @@
+{
+    "type": "folder",
+    "name": "~",
+    "contents": [
+        {
+            "type": "folder",
+            "name": "AboutMe",
+            "contents": [
+                {
+                    "type": "file",
+                    "name": "README",
+                    "text": "Hi, I'm me and I do me things, blah blah blah"
+                }
+            ] 
+        },
+        {
+            "type": "folder",
+            "name": "Projects",
+            "contents": [
+                {
+                    "type": "file",
+                    "name": "Project1",
+                    "text": "Project description here"
+                },
+                {
+                    "type": "file",
+                    "name": "Project2",
+                    "text": "Project description here"
+                },
+                {
+                    "type": "file",
+                    "name": "Project3",
+                    "text": "Project description here"
+                }
+            ]
+        },
+        {
+            "type": "folder",
+            "name": "Hobbies",
+            "contents": [
+                {
+                    "type": "folder",
+                    "name": "Art",
+                    "contents": [
+                        "all the art i've done here"
+                    ]
+                },
+                {
+                    "type": "folder",
+                    "name": "Music",
+                    "contents": [
+                        "all the music i've made here"
+                    ]
+                }
+            ] 
+        }
+    ]
+}

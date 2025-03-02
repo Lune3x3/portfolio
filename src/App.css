@@ -1,3 +1,8 @@
 .entry {
   white-space: pre-wrap;
+  letter-spacing: 0.05rem;
+}
+
+.input {
+  letter-spacing: 0.05rem;
 }
